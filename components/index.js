@@ -1,0 +1,5 @@
+export {default as Nav} from './Nav'
+export {default as Hero} from './Hero'
+export {default as Footer} from './Footer'
+export {default as News} from './News'
+export {default as Projects} from './Projects'
