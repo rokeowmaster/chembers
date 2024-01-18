@@ -21,7 +21,10 @@ const Nav = () => {
                     </summary>
                     <ul className="p-2 bg-base-100 rounded-t-none">
                         <li><a href="/portfolio">Portfolio</a></li>
-                        <li><a>Partners</a></li>
+                        <li><a href="/about">Information</a></li>
+                        <li><a href="/services">Services</a></li>
+                        <li><a href="/faq">FAQ</a></li>
+                        <li><a href="/blog">Blog</a></li>
                     </ul>
                     </details>
                 </li>
