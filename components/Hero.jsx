@@ -8,9 +8,9 @@ const Hero = () => {
         className="hero min-h-screen" style={{backgroundImage: 'url(banner.webp)'}}>
         <div className="hero-overlay bg-opacity-60"></div>
         <motion.div 
-        initial={{y:'-1000vh'}} 
+        initial={{y:'-500vh'}} 
         animate={{y:0}} 
-        transition={{ ease: "easeIn", duration: 2 }}
+        transition={{ ease: "easeIn", duration: 1.5 }}
         className="hero-content text-center text-neutral-content">
             <div className="max-w-md">
             <h1 className="mb-5 text-5xl font-bold">Chembers Beds, Your Interior Design Partner</h1>
